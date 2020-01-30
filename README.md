@@ -1,2 +1,2 @@
-# WebGLProgramingGuideExample
+# WebGLProgramingGuideExamples
 For learning WebGL
